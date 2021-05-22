@@ -4,8 +4,9 @@
   type: github
   icon: 'fab fa-github-alt'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/taesoon-kim-a24462169/'
 -
   type: email
   icon: 'fas fa-envelope'
